@@ -15,3 +15,4 @@ Algorithms used:
 • K-Means
 • Adaptive Boosting (AdaBoost) Algorithm
 • Extreme Gradient Boosting (XGBoost) Algorithm
+ Stacking Classifier, Hyperparameter Tuning ,Multicollinearity, finding optimal threshold using AUC-ROC curve, Decision trees & pruning, misclassification analysis.
