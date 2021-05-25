@@ -1,5 +1,5 @@
 # Machine Learning Projects 
-Jupyter notebook  files on Data Science and Business Analytical Projects 
+Jupyter notebook  files
 
 Description about repository:
 This repository consists of all my Machine Learning Projects. Datasets are provided in each of the folders above, and also the solution to the problem statements have been provided.
